@@ -3,9 +3,7 @@
 
 :root {
   --maintheme:linear-gradient(to bottom right, #ed213a, #93291e);
-  --sectheme ;
   --maincolor:#ed213a;
-  --seccolor ;
   --red: hsl(0, 78%, 62%);
   --cyan: hsl(180, 62%, 55%);
   --orange: hsl(34, 97%, 64%);
