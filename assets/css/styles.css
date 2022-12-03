@@ -145,11 +145,6 @@ nav .tubelight .light-ray {
   font-size: 20px;
 }
 
-.welcome img {
-  filter: invert(100%);
-  -webkit-filter: invert(100%);
-}
-
 .welcome h1 {
   font-family: Kusanagi;
   color: #ffffff;
