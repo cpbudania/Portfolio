@@ -146,10 +146,11 @@ nav .tubelight .light-ray {
 }
 
 .welcome img {
-  border-radius: 7px;
+  border-radius: 130px;
 }
 
 .welcome h1 {
+  text-align: center;
   font-family: Kusanagi;
   color: #ffffff;
   font-size: 2rem;
