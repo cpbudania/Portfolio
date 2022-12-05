@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:900i");
 
 :root {
-  --maintheme:linear-gradient(to bottom right, #d9a0ff, #81d8ff, #94F1ed);
+  --maintheme: linear-gradient(to bottom right, #d9a0ff, #81d8ff, #94f1ed);
   --maincolor: #373e98;
   --tracolor: #f6f1f4;
   --red: hsl(0, 78%, 62%);
@@ -17,9 +17,8 @@
   --weight3: 600;
 }
 
-
 html {
-  background: #E6E6FA;
+  background: #e6e6fa;
   scroll-behavior: smooth;
 }
 
@@ -74,7 +73,7 @@ nav {
   grid-template-columns: repeat(5, 1fr);
   border-radius: 10px;
   padding: 0 15px;
-  background: #F8F8FF;
+  background: #f8f8ff;
   box-shadow: 0 6.7px 5.3px rgba(0, 0, 0, 0.12),
     0 22.3px 17.9px rgba(0, 0, 0, 0.08), 0 100px 80px rgba(0, 0, 0, 0.04);
   overflow: hidden;
@@ -220,7 +219,6 @@ nav .tubelight .light-ray {
 
 /* social icons end */
 
-
 .lbutton {
   background: black;
   text-decoration: none;
@@ -241,20 +239,20 @@ nav .tubelight .light-ray {
 
 /* About Me Section Starts */
 .about-container {
- border-radius: 30px;
- margin: 4%;
- box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
- padding-right: 20px;
- padding-left: 20px;
- padding-bottom: 10px;
- background: #EBF6F7;
- gap: 20px;
+  border-radius: 30px;
+  margin: 4%;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  background: #ebf6f7;
+  gap: 20px;
 }
 
 .about-head {
   font-family: poppins;
   padding: 6%;
-  text-align: center
+  text-align: center;
 }
 
 .about-details {
@@ -523,7 +521,6 @@ nav .tubelight .light-ray {
   cursor: pointer;
   transition: all 0.3s ease;
   margin-bottom: 5%;
-  
 }
 
 .card-title-tag {
@@ -549,7 +546,6 @@ summary:hover {
 
 /* Page 4 */
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
-
 
 .page4r {
   font-family: "Open Sans", sans-serif;
@@ -713,7 +709,6 @@ form p {
 
 /* header Section In Every Page */
 
-
 .topic-header2 {
   font-size: 1.9rem;
   text-align: center;
@@ -745,7 +740,6 @@ form p {
   height: 7vh;
   font-family: "Montserrat", sans-serif;
 }
-
 
 /* Footer Section  */
 
