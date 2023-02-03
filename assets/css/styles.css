@@ -662,6 +662,7 @@ form p {
 }
 .right-side .submit input[type="submit"] {
   color: #fff;
+  width: 100%;
   font-size: 18px;
   outline: none;
   border: none;
