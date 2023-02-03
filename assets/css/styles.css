@@ -658,7 +658,7 @@ form p {
 
 .right-side .submit {
   display: inline-block;
-  margin-top: 12px;
+  margin: 12px 0;
 }
 .right-side .submit input[type="submit"] {
   color: #fff;
